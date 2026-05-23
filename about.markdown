@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: A propos
+permalink: /a_propos/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+280 caracteres, vraiment ?
 
-You can find the source code for Minima at GitHub:
+Pourquoi 1992 :
+
+[Discours de Ph. Seguin](https://www.youtube.com/watch?v=_oN-DxnGPZQ "Discours de Ph. Seguin")
+
+Fait avec :
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
+Les sources :
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
